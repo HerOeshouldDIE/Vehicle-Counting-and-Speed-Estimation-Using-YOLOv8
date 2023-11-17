@@ -2,11 +2,11 @@
 
 ## Overview
 
-This repository contains a powerful yet easy-to-use system for vehicle counting and speed estimation using the YOLOv8 object detection model. The system detects vehicles in a video, tracks their movement, and estimates their speed, providing valuable insights for traffic analysis and monitoring.
+This repository presents a robust solution for vehicle counting and speed estimation using the YOLOv8 object detection model. The system excels in detecting vehicles in videos, tracking their movement, and estimating their speed, making it a valuable tool for traffic analysis and monitoring.
 
 ## Features
 
-- **Object Detection:** Utilizes YOLOv8 for accurate and efficient vehicle detection.
+- **Object Detection:** Leverages YOLOv8 for accurate and efficient vehicle detection.
 - **Tracking:** Implements a robust tracking mechanism to follow vehicles across frames.
 - **Speed Estimation:** Estimates the speed of detected vehicles based on their movement.
 - **Interactive Jupyter Notebook:** Provides an interactive Jupyter Notebook for testing and exploration.
@@ -72,6 +72,14 @@ An interactive Jupyter Notebook providing a hands-on environment for testing and
      ```
 
    - Open the `jupyter1.ipynb` notebook, run the cells, and replace the video file name if needed.
+
+## How to Clone
+
+To clone this repository, use the following command:
+
+```bash
+git clone https://github.com/HerOeshouldDIE/Vehicle-Counting-and-Speed-Estimation-Using-YOLOv8.git
+```
 
 ## GitHub Repository
 
